@@ -10,4 +10,3 @@ A console program that demonstrates solving fizzbuzz.
 4. If the current number is divisible by 5 then print "Buzz"
 5. If the current number is divisible by 3 and 5 then print "FizzBuzz"
 6. Otherwise print the current number
-
